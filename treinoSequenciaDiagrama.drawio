@@ -386,7 +386,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pHcF78AE0VXEvS_Ts0Yd-200" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;loop&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry y="800" width="230" height="40" as="geometry" />
+          <mxGeometry y="800" width="550" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
